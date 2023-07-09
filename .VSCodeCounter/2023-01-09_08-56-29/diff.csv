@@ -1,0 +1,18 @@
+"filename", "language", "Dart", "comment", "blank", "total"
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\EmergencyContacts\emergencycontacts.dart", "Dart", 106, 1, 10, 117
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\controllers\task_controller.dart", "Dart", 4, 0, 1, 5
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\db\db_helper.dart", "Dart", 7, 0, 1, 8
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\main.dart", "Dart", 17, 0, 0, 17
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\models\change_user_name.dart", "Dart", 82, 4, 7, 93
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\models\changemobilenumber.dart", "Dart", 82, 4, 8, 94
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\models\doctornumber.dart", "Dart", 83, 4, 8, 95
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\models\profile.dart", "Dart", 12, 0, -3, 9
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\homepage\homepage.dart", "Dart", 9, 1, 0, 10
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\mobile_number.dart", "Dart", -2, 0, 0, -2
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\onboarding\onboarding_screen.dart", "Dart", -2, 0, 0, -2
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\pswd.dart", "Dart", 15, 0, -6, 9
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\settings.dart", "Dart", -55, 0, -2, -57
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\test.dart", "Dart", -30, 0, -4, -34
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\screens\user_name.dart", "Dart", 1, 0, 0, 1
+"d:\montages\flutter projects\Githug Projects\medication_remainder\lib\twilio\twilio_sms_service.dart", "Dart", -1, -1, -2, -4
+"Total", "-", 328, 13, 18, 359

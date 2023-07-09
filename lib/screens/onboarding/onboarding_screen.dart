@@ -1,22 +1,6 @@
-// import 'package:flutter/src/widgets/container.dart';
-// import 'package:flutter/src/widgets/framework.dart';
-
-// class OnboardingScreen extends StatefulWidget {
-//   const OnboardingScreen({super.key});
-
-//   @override
-//   State<OnboardingScreen> createState() => _OnboardingScreenState();
-// }
-
-// class _OnboardingScreenState extends State<OnboardingScreen> {
-//   @override
-//   Widget build(BuildContext context) {
-//     return Container();
-//   }
-// }
-
 import 'package:flutter/material.dart';
-import 'package:medication_remainder/screens/authentication_page/login_page.dart';
+import 'package:get/get.dart';
+import 'package:medication_remainder/screens/mobile_number.dart';
 
 import '../onboarding/onboarding_content.dart';
 
@@ -125,12 +109,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                           padding: const EdgeInsets.all(30),
                           child: ElevatedButton(
                             onPressed: () {
-                              Navigator.of(context).pushAndRemoveUntil(
-                                  MaterialPageRoute(
-                                    builder: (BuildContext context) =>
-                                        const LoginPage(),
-                                  ),
-                                  (route) => false);
+                              Get.off(
+                                const MobileNumber(),
+                              );
                             },
                             // TODO:give functionality
                             style: ElevatedButton.styleFrom(
